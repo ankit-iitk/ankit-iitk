@@ -3,7 +3,7 @@
 🎓 A passionate Data Science enthusiast  
 💻 Turning data into insights & models that solve real-world problems  
 🌐 Portfolio: [ankit-iitk.github.io/MyPortfolio](https://ankit-iitk.github.io/MyPortfolio/)  
-📫 Email: ankitsaluja165@gmail.com  
+📫 Email: your.email@example.com  
 
 ---
 
@@ -12,6 +12,7 @@
 - 🔍 I'm focused on **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔢 I enjoy exploring data, building predictive models, and deploying ML apps
 - 🎯 Currently learning **Generative AI** and **advanced NLP techniques**
+- ✍️ I also create educational content and share project learnings on GitHub
 
 ---
 
@@ -32,14 +33,35 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🎯 **Diabetes Prediction** | ML model to predict diabetes based on medical parameters | Scikit-learn, Streamlit |
-| 🏏 **T20 2024 Cricket Score Predictor** | Regression model predicting live match scores | Pandas, Regression, Matplotlib |
-| 🎵 **Music Recommendation System** | Suggests songs using audio features | Cosine Similarity, Streamlit |
-| 📊 **Portfolio Website** | Responsive portfolio built using HTML | HTML, JavaScript |
+### 🎯 Diabetes Prediction
+Predicts diabetes based on medical input features.  
+🛠️ `Scikit-learn`, `Pandas`, `Streamlit`  
+🔗 [Project Link](https://github.com/ankit-iitk/Diabetes-Prediction-ML-Project )  
+🌐 [App Link](https://diabetes-prediction-ml-project.streamlit.app/)
 
-➡️ View all my projects in the [Repositories](https://github.com/ankit-iitk?tab=repositories)
+---
+
+### 🏏 T20 2024 Cricket Score Predictor
+Predicts final T20 scores using regression and match features.  
+🛠️ `Pandas`, `Regression`, `Matplotlib`  
+🔗 [Project Link](https://github.com/ankit-iitk/T20-Cricket-Prediction-2024 )  
+🌐 [App Link](https://t20-cricket-prediction-2024.streamlit.app/)
+
+---
+
+### 🎵 Music Recommendation System
+Recommends music tracks using audio similarity and features.  
+🛠️ `Cosine Similarity`, `Streamlit`, `Pandas`  
+🔗 [Project Link](https://github.com/ankit-iitk/Music-Recommender-System)  
+🌐 [App Link](https://music-recommendeer-system.streamlit.app/)
+
+---
+
+### 📊 Portfolio Website
+Personal responsive portfolio showcasing projects and skills.  
+🛠️ `HTML`, `CSS`, `JavaScript`  
+🔗 [Project Link](https://github.com/ankit-iitk/MyPortfolio)  
+🌐 [Live Portfolio](https://ankit-iitk.github.io/MyPortfolio/)
 
 ---
 
@@ -53,9 +75,9 @@
 
 ## 🔗 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankit-saluja-1046a632b )  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankit-saluja-1046a632b)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://ankit-iitk.github.io/MyPortfolio/)
 
 ---
 
-*Thanks for visiting my profile! 🙌 Let's build something great together.* 
+*Thanks for visiting my profile!  Let's build something great together.* 
