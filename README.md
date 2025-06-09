@@ -3,7 +3,7 @@
 🎓 A passionate Data Science enthusiast  
 💻 Turning data into insights & models that solve real-world problems  
 🌐 Portfolio: [ankit-iitk.github.io/MyPortfolio](https://ankit-iitk.github.io/MyPortfolio/)  
-📫 Email: your.email@example.com  
+📫 Email : ankitsaluja165@gmail.com  
 
 ---
 
@@ -12,7 +12,7 @@
 - 🔍 I'm focused on **Machine Learning**, **Deep Learning**, and **NLP**
 - 🔢 I enjoy exploring data, building predictive models, and deploying ML apps
 - 🎯 Currently learning **Generative AI** and **advanced NLP techniques**
-- ✍️ I also create educational content and share project learnings on GitHub
+  
 
 ---
 
