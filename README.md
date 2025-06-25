@@ -49,12 +49,19 @@ Predicts final T20 scores using regression and match features.
 
 ---
 
-### 🎵 Music Recommendation System
+### 🎵 Music Recommendation System 
 Recommends music tracks using audio similarity and features.  
 🛠️ `Cosine Similarity`, `Streamlit`, `Pandas`  
 🔗 [Project Link](https://github.com/ankit-iitk/Music-Recommender-System)  
-🌐 [App Link](https://music-recommendeer-system.streamlit.app/)
+🌐 [App Link](https://music-recommendeer-system.streamlit.app/) 
 
+---
+
+### 📧 Email Spam Classifier
+Detects whether a given email is spam or not using NLP techniques. Preprocessing includes tokenization, stop word removal, TF-IDF vectorization.
+🔗 [Project Link](https://github.com/ankit-iitk/Email-Spam-Classifier)  
+🌐 [App Link](https://email-spam-classifier2.streamlit.app/)
+ 
 ---
 
 ### 📊 Portfolio Website
