@@ -36,6 +36,7 @@
 ### 🎯 Diabetes Prediction
 Predicts diabetes based on medical input features.  
 🛠️ `Scikit-learn`, `Pandas`, `Streamlit`  
+
 🔗 [Project Link](https://github.com/ankit-iitk/Diabetes-Prediction-ML-Project )  
 🌐 [App Link](https://diabetes-prediction-ml-project.streamlit.app/)
 
@@ -44,6 +45,7 @@ Predicts diabetes based on medical input features.
 ### 🏏 T20 2024 Cricket Score Predictor
 Predicts final T20 scores using regression and match features.  
 🛠️ `Pandas`, `Regression`, `Matplotlib`  
+
 🔗 [Project Link](https://github.com/ankit-iitk/T20-Cricket-Prediction-2024 )  
 🌐 [App Link](https://t20-cricket-prediction-2024.streamlit.app/)
 
@@ -52,6 +54,7 @@ Predicts final T20 scores using regression and match features.
 ### 🎵 Music Recommendation System 
 Recommends music tracks using audio similarity and features.  
 🛠️ `Cosine Similarity`, `Streamlit`, `Pandas`  
+
 🔗 [Project Link](https://github.com/ankit-iitk/Music-Recommender-System)  
 🌐 [App Link](https://music-recommendeer-system.streamlit.app/) 
 
