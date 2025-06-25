@@ -59,6 +59,7 @@ Recommends music tracks using audio similarity and features.
 
 ### 📧 Email Spam Classifier
 Detects whether a given email is spam or not using NLP techniques. Preprocessing includes tokenization, stop word removal, TF-IDF vectorization.
+
 🔗 [Project Link](https://github.com/ankit-iitk/Email-Spam-Classifier)  
 🌐 [App Link](https://email-spam-classifier2.streamlit.app/)
  
